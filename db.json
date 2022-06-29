@@ -3,7 +3,43 @@
     {
       "id": 1,
       "process": "29000023113199185",
-      "company": "PCH BURITI"
+      "company": "PCH BURITI",
+      "segment": 0,
+      "subject": "Cronograma de Implantação",
+      "subjectDescription": "Alteração do cronograma de implantação da Pequena Central Hidrelétrica - PCH Buriti, localizada no município de Sapezal, estado de Mato Grosso",
+      "favorite": false,
+      "dateOfOrigin": "26/09/2017",
+      "lastDecisionDate": "12/03/2019",
+      "reporter": "Rodrigo de Carvalho",
+      "superintendencies": "Superintendência de Concessões e Autorizações de Geração - SCG",
+      "interestedParts": [
+        "ENERGISA MATO GROSSO DISTRIBUIDORA ENERGIA SA",
+        "PCH BURITI"
+      ],
+      "similarity": 88,
+      "opened": false,
+      "segmentString": "Geração"
+    },
+    {
+      "id": 2,
+      "process": "48000002453199370",
+      "company": "UTE SANTA TEREZINHA",
+      "segment": 0,
+      "subject": "Autorização e Concessões",
+      "subjectDescription": "Extinção das concessões das Usinas Termelétricas - UTEs Pontes e Lacerda, São José do Rio Claro, Querência do Norte, Santa Terezinha, Porto Alegre do Norte, Gaúcha do Norte, Vila Rica, Tapurah, Apiacás, Juruena e Sapezal outorgadas à Energisa Mato Grosso - Distribuidora de Energia S.A., localizadas no estado de Mato Grosso",
+      "favorite": true,
+      "dateOfOrigin": "23/02/2016",
+      "lastDecisionDate": "13/08/2018",
+      "reporter": "Rodrigo de Carvalho",
+      "superintendencies": "Superintendência de Concessões e Autorizações de Geração - SCG",
+      "interestedParts": [
+        "ENERGISA MATO GROSSO DISTRIBUIDORA ENERGIA SA",
+        "ENERGISA MATO GROSSO SUL DISTRIBUIDORA ENERGIA SA",
+        "UTE SANTA TEREZINHA"
+      ],
+      "similarity": 71,
+      "opened": false,
+      "segmentString": "Geração"
     }
   ]
 }
